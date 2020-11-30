@@ -2,4 +2,4 @@
 Teleportation et BB84
 
 
-Ce repository deviendra privé dans quelques jours, pour y avoir accès : merci de me communiquer votre "nom" dans GitHub
+Ce repository deviendra privé dans quelques jours, pour y avoir accès : merci de me communiquer votre username de GitHub
